@@ -1,0 +1,5 @@
+h
+loadfile F:\xml\DTU_Source\TEST\eclipse\Eclipse_STM32_UCOSII_DEMO\Debug\Eclipse_STM32_UCOSII_DEMO.bin 0x08004000
+r
+g
+q
